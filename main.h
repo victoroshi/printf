@@ -26,6 +26,7 @@ int print_int(va_list args);
 int print_string(va_list arg);
 int print_char(va_list arg);
 int print_37(void);
+void printf_null(const char *format);
 int print_HEX_aux(unsigned int numb);
 int print_HEX(va_list arg);
 int _strlenc(const char *s);
