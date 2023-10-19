@@ -1,6 +1,7 @@
 #include "main.h"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /**
  * _printf - function declaration string and variable argument.
  * @format: var argv specifies
@@ -47,6 +48,8 @@ Here:
 }
 
 =======
+=======
+>>>>>>> 02e1d858b12567b37e7558c71e85b6b2e636a12b
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
@@ -111,4 +114,7 @@ void print_buffer(char buffer[], int *buff_ind)
 
 	*buff_ind = 0;
 }
+<<<<<<< HEAD
+>>>>>>> 02e1d858b12567b37e7558c71e85b6b2e636a12b
+=======
 >>>>>>> 02e1d858b12567b37e7558c71e85b6b2e636a12b
