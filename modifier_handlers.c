@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_% - prints per cent sign.
+ * print_37 - print percentage
  * Return: 1.
  */
 int print_37(void)
@@ -41,7 +41,7 @@ int print_string(va_list arg)
 	{
 		s = "(null)";
 		y = _strlen(s);
-		for (x= 0; x < y; x++)
+		for (x = 0; x < y; x++)
 			_putchar(s[x]);
 		return (y);
 	}

@@ -2,7 +2,7 @@
 
 /**
  * _printf - function that produces output according to a format
- * @format: variable arguments 
+ * @format: variable arguments
  * Return: lenght of the string specifier.
  */
 int _printf(const char * const format, ...)
